@@ -1,0 +1,28 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+
+Data/*
+Data/Cleaned/*
+Data/Original/Air Quality Monitoring Network/*
+Data/Original/LUR Surfaces/*
+Data/Original/Metro Vancouver Open Data/*
+Data/Original/Postal Code Conversion Files/*
+Data/Original/Stats Can Provincial Boundaries/*
+Data/Temp/*
+
+!Data/Cleaned/.gitignore
+!Data/Original/Air Quality Monitoring Network/.gitignore
+!Data/Original/LUR Surfaces/.gitignore
+!Data/Original/Metro Vancouver Open Data/.gitignore
+!Data/Original/Postal Code Conversion Files/.gitignore
+!Data/Original/Stats Can Provincial Boundaries/.gitignore
+!Data/Temp/.gitignore
+
+Results/*
+
+!Results/.gitignore
+
